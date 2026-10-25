@@ -1,0 +1,6 @@
+{
+  "name": "Beats",
+  "description": "Beats Music & Hi-Res Audio - 24/32-bit lossless player with 3D spatial audio, YouTube Music streaming, international language downloads, and DAC bit-perfect output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
